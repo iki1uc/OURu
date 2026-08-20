@@ -1,0 +1,18 @@
+AXIOME = {
+    EAR: anchor,
+    EON: stabilize,
+    EXP: expand,
+    AIR: up,
+    AIV: down
+}
+
+OPERATOR = {
+    XI: expand,
+    IX: anchor,
+    X4: stabilize
+}
+
+WECHSEL = {
+    horizontal: IX → X4 → XI,
+    vertical: AIR ↕ AIV
+}

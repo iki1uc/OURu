@@ -1,0 +1,16 @@
+Highway.MODE = "5-Achs"
+
+Highway.Achsen = {
+    EAR,
+    EON,
+    EXP,
+    AIR,
+    AIV
+}
+
+Highway.Operator = XI
+Highway.Path = "linear"
+
+Slalom.RESPO = 3
+Slalom.Target = 4
+Slalom.Path = EAR → EON → EXP → AIR → AIV

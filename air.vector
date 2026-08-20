@@ -1,0 +1,15 @@
+RESPO {
+    ID: ####,
+    INDEX: "e",
+
+    MASTER_ID: 1,
+    SLAVE_ID: ####,
+
+    STATUS: TMP,
+
+    IST: "neu",
+    SOLL: "aktiv",
+    IST_IST: "ungleich",
+
+    ROOT: true
+}
