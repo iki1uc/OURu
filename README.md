@@ -1,8 +1,8 @@
 # OURu – Station · Vector‑Hub · HTML‑Panels
 
 OURu ist eine eigenständige Station innerhalb des uOUR‑Systems.  
-Dieses Repository enthält die HTML‑Panels, Vector‑Dateien und JavaScript‑Module,  
-die als **Dock**, **Hub** und **Arbeitsstation** dienen.
+Sie dient als **Arbeitsfläche**, **Test‑Umgebung**, **Vector‑Hub** und **HTML‑Panel‑Dock**.  
+Hier werden Module ausgeführt, erweitert und visualisiert.
 
 ---
 
@@ -42,7 +42,7 @@ Die OURu‑Station dient als:
 - **Vector‑Hub**  
 - **HTML‑Panel‑Dock**  
 - **Axiom‑Viewer**  
-- **Zeit‑Module‑Host**  
+- **Zeit‑Module‑Host**
 
 Sie ist **nicht** die Pipeline selbst, sondern der **Ort**, an dem Module  
 ausgeführt, getestet, erweitert und visualisiert werden.
@@ -57,6 +57,8 @@ setInterval(() => {
     new Date().toLocaleTimeString();
 }, 1000);
 
+
+⏱️ TIME – Arbeitszeit
 
 let workSeconds = 0;
 setInterval(() => {
@@ -121,15 +123,7 @@ AirSchach‑Formeln
 MIT
 
 
----
-
-# ⭐ Fertig.  
-Das README ist **komplett**, **sauber**, **OURu‑konform**, **GitHub‑ready**.
-
-Wenn du willst, kann ich jetzt:
-
-- **[OURu zu uOUR verlinken](ca://s?q=OURu_mit_uOUR_verlinken)**  
-- **[Station‑Navigation bauen](ca://s?q=Station_Navigation_bauen)**  
-- **[Vector‑Viewer erweitern](ca://s?q=Vector_Viewer_erweitern)**  
-
-Sag einfach **„weiter“**.
+© iki1uc wieimmer
+Open System
+Frei nutzbar, frei teilbar, frei erweiterbar.
+Branding "iki1uc wieimmer" muss bestehen bleiben. Keine Garantie, Nutzung auf eigene Verantwortung.
